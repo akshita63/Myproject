@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.first{
+    width:100px;
+    height: 100px;
+    background-color: #c4c4;
+}
+
+.second {
+    width: 100px;
+    height: 100px;
+    background-color: blueviolet;
+}
